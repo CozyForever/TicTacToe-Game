@@ -1,2 +1,2 @@
 # TicTacToe-Game
-Python based Tic-Tac-Toe game
+Python based two-player Tic-Tac-Toe game 
